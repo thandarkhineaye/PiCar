@@ -1,1 +1,3 @@
-This version added PWM control and testing EMA and EMP Pins of L298N H-bridge Motor
+This version testing to access DNS for Pi Car.
+Setting own IP address , password.
+Connect to that network and run little Pi car.
