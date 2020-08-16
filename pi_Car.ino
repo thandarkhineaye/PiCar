@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "W04_44C3465CEA14";      //Wi-Fi Name
-const char* password = "q19q6yhe2yna8b3";   // Wi-Fi Password
+const char* ssid = "";      //Wi-Fi Name
+const char* password = "";   // Wi-Fi Password
 
 ESP8266WebServer server(80);
 //the current condition of car (assigne 's' for STOP condition)
